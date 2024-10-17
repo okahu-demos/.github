@@ -15,11 +15,11 @@ This is a chatbot that answers coffee related questions. It's a RAG design patte
 - Client - http://okahu-sagemaker-rag-chatbot-ui.eba-g8fpwhc9.us-east-1.elasticbeanstalk.com/
 - Lambda - https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/sagemaker-okahu-demo-langchain
 - Sagemaker - https://us-east-1.console.aws.amazon.com/sagemaker/home?region=us-east-1#/studio
-- Okahu API key stored in the Azure function environment. You need to set to your demo Okahu tenant
-- 
+- Okahu API key stored in the Lambda function environment. You need to set to your demo Okahu tenant
+
 ### AWS Sagemaker with AWS Lambda demo env
 This is a chatbot that answers coffee related questions. It's a simple LLM inference call with gpt-3.5-turbo hosted in AWS Bedrock, app code implemented in Langchain and deployed in Azure function.
 - Client - http://bedrock-kb-chatbot-ui.eba-uvpw32i4.us-east-1.elasticbeanstalk.com/
 - Lambda - https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/bedrock-kb-sbx-ask-question
 - Bedrock - https://us-east-1.console.aws.amazon.com/bedrock/home?region=us-east-1#/
-- Okahu API key stored in the Azure function environment. You need to set to your demo Okahu tenant<!--
+- Okahu API key stored in the Lambda function environment. You need to set to your demo Okahu tenant<!--
