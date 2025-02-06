@@ -12,11 +12,8 @@ These examples are aimed at AI app developers, platform engineers or anyone else
 
 | Example | Repository | Description | GenAI app | Observability |
 | --- | --- |--- | --- | --- | 
-| ![thumbnail](monocle_chatbot_aws.png) | [chatbot-coffee-lambda](https://github.com/okahu-demos/chatbot-coffee-lambda) |Cloud hosted interactive chatbot to answer questions about coffee with traces hosted in AWS S3 | TypeScript, Langchain, OpenAI, AWS | Monocle | 
-
-
-- Refer to readme.md in repo for how to setup environment.
-- Most of these demos can be run on your laptop or Github Codespaces. 
+| ![thumbnail](monocle_chatbot_aws.png) | [chatbot-coffee-lambda](https://github.com/okahu-demos/chatbot-coffee-lambda) |Cloud hosted interactive chatbot webapp to answer questions about coffee with traces hosted in AWS S3 | Next.js, TypeScript, Langchain, OpenAI, AWS | Monocle | 
+| --- | [okahu-demo-lc-openai](https://github.com/okahu-demos/okahu-demo-lc-openai) |Personal interactive chatbot command line python app to answer questions about coffee with local traces. Runs on your laptop or Github Codespaces  | Python, Langchain, OpenAI, Github Codespaces/Laptop | Okahu | 
 
 ## Working demos hosted by Okahu
 
