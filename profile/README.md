@@ -18,7 +18,7 @@ These examples are aimed at AI app developers, platform engineers or anyone else
 
 ## Working demos hosted by Okahu
 
-Okahu team also hosts version of these GenAI apps in our cloud. 
+Okahu team also hosts version of these GenAI apps in our cloud.[^1]  
 
 | Demo | Instructions | Observability | 
 | -- | -- | -- | 
@@ -31,5 +31,9 @@ Okahu team also hosts version of these GenAI apps in our cloud.
 ## Contribute 
 
 Email dx@okahu.ai to contribute your demo apps to this repo. 
+
+[^1]: Use of Okahu hosted demo is covered by Okahu's [terms of service for evaluations](https://www.okahu.ai/agreements/evaluation-agreement). 
+  [Okahu](https://www.okahu.ai) is a team of AI, observability & cloud engineers working to simplify observability for agentic and other GenAI apps. We serve AI app developers, platform engineers and engineering leaders to build reliable, accurate and safer AI apps. We believe in community driven open source software and are a major contributor to GenAI native observability Project Monocle hosted by Linux Foundation.
+  Connect with us on [Linkedin](https://www.linkedin.com/company/99272699/admin/dashboard/), [Github](https://github.com/okahu) or email us at <dx@okahu.ai>
 
 
