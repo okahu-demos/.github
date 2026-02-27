@@ -8,11 +8,19 @@ We've curated working examples of different kinds of GenAI apps and ways to inst
 
 These examples are aimed at AI app developers, platform engineers or anyone else who want to learn to build and operate impactful GenAI apps. 
 
+Check out the repositories below! 
+
 ## Demos in Okahu Cloud Portal
 
 Get your **free** [Okahu Cloud Portal](https://portal.okahu.co) account. 
 
 <img width="1333" height="1035" alt="image" src="https://github.com/user-attachments/assets/21d66eb6-57e3-4490-901e-e89c257e83a8" />
+
+## Demos with Okahu in IDE 
+
+Get your **free** Okahu AI Debug Agent in your IDE: [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=OkahuAI.okahu-ai-observability) [Cursor](https://open-vsx.org/extension/OkahuAI/okahu-ai-observability) [AWS Kiro](https://open-vsx.org/extension/OkahuAI/okahu-ai-observability) [AntiGravity](https://open-vsx.org/extension/OkahuAI/okahu-ai-observability) 
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/077b4b43-f62c-4f69-9e54-059a372c9279" />
 
 ## Working demos hosted by Okahu
 
