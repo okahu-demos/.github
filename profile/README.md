@@ -1,20 +1,18 @@
-# Easy Observability for agentic and GenAI apps 
+# Easy Observability + Evaluations for agentic and LLM based apps 
 
 [Okahu](https://www.okahu.ai) is a team of AI, observability & cloud engineers working to simplify observability for agentic and other GenAI apps. We serve AI app developers, platform engineers and engineering leaders to build reliable, accurate and safer AI apps. We believe in community driven open source software and are a major contributor to GenAI native observability [Project Monocle](https://monocle2ai.github.io/docs/) hosted by Linux Foundation.
 
-## Working GenAI apps with observability enabled
+## Working agentic apps with observability enabled
 
 We've curated working examples of different kinds of GenAI apps and ways to instrument these apps to get meaningful observability insights. GenAI apps are built using a variety of languages, LLM frameworks, models and cloud services. Instrumentation of these apps is demonstrated using open source including Monocle & OpenTelemetry or commercially supported products from Okahu or friends. 
 
 These examples are aimed at AI app developers, platform engineers or anyone else who want to learn to build and operate impactful GenAI apps. 
 
-## List of demo repositories
+## Demos in Okahu Cloud Portal
 
-| Example | Repository | Description | GenAI app | Observability |
-| --- | --- |--- | --- | --- | 
-| <img src="monocle_chatbot_aws.png" width="480"> | [chatbot-coffee-lambda](https://github.com/okahu-demos/chatbot-coffee-lambda) |Cloud hosted interactive chatbot webapp to answer questions about coffee with traces hosted in AWS S3 | Next.js, TypeScript + Python, Langchain, OpenAI, AWS | Monocle | 
-| <img src="monocle-chat-vercel.png" width="480">| [chatbot-coffee-vercel](https://github.com/okahu-demos/chatbot-coffee-vercel) |Vercel hosted interactive chatbot webapp to answer questions about coffee with traces hosted in AWS S3 | Next.js, TypeScript, Langchain, OpenAI, Vercel | Monocle | 
-| --- | [okahu-demo-lc-openai](https://github.com/okahu-demos/okahu-demo-lc-openai) |Personal interactive chatbot command line python app to answer questions about coffee with local traces. Runs on your laptop or Github Codespaces  | Python, Langchain, OpenAI, Github Codespaces/Laptop | Okahu | 
+Get your **free** [Okahu Cloud Portal](https://portal.okahu.co) account. 
+
+<img width="1333" height="1035" alt="image" src="https://github.com/user-attachments/assets/21d66eb6-57e3-4490-901e-e89c257e83a8" />
 
 ## Working demos hosted by Okahu
 
